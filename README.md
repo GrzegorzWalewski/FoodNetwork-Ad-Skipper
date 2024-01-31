@@ -8,6 +8,7 @@ Skip ads at https://watch.foodnetwork.com
 # Addon available at:
 - Firefox: (waiting for approval)
 - Chrome: (waiting for approval)
+- Releases: https://github.com/GrzegorzWalewski/FoodNetwork-Ad-Skipper/releases (for both browsers)
 
 # Chrome and Firefox diffrences
 Only diffrence between these two is `manifest_version` - for Firefox it's `2` and Chrome use `3`
