@@ -1,5 +1,5 @@
 # FoodNetwork-Ad-Skipper
-Skip adds at https://watch.foodnetwork.com
+Skip ads at https://watch.foodnetwork.com
 
 # How to use
 Add this script at tempermonkey, or similar web browser extension
