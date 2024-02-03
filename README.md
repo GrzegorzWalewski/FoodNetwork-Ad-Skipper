@@ -6,8 +6,8 @@ Skip ads at https://watch.foodnetwork.com
 
 
 # Addon available at:
-- Firefox: (waiting for approval)
-- Chrome: (waiting for approval)
+- Firefox: [https://addons.mozilla.org/en-US/firefox/addon/foodnetwork-ads-skipper/](https://addons.mozilla.org/en-US/firefox/addon/foodnetwork-ads-skipper/)
+- Chrome: [https://chromewebstore.google.com/detail/foodnetwork-ads-skipper/cmcbhfifohdoopiimjcllpdpodhanfgi](https://chromewebstore.google.com/detail/foodnetwork-ads-skipper/cmcbhfifohdoopiimjcllpdpodhanfgi)
 - Releases: https://github.com/GrzegorzWalewski/FoodNetwork-Ad-Skipper/releases (for both browsers)
 
 # Chrome and Firefox diffrences
